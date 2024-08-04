@@ -1,8 +1,25 @@
-# React + Vite
+# React Image Slider with `react-slick`
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a React-based image slider using the `react-slick` library, which is a React wrapper for the popular `slick-carousel` library. The slider automatically transitions through images and includes navigation dots and autoplay functionality.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Responsive image slider
+- Navigation dots
+- Autoplay with adjustable speed
+- Customizable styles, including border radius for images
+
+## Installation
+
+1. **Clone the repository:**
+
+     ```bash
+     git clone https://github.com/your-username/react-image-slider.git
+   cd react-image-slider
+2.**Install dependencies:**
+
+    npm install
+    
+3.**Run the development server:**
+
+    npm run dev
